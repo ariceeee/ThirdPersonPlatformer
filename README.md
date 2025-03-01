@@ -2,7 +2,8 @@
 
 ## Assignment details
 
-Create a 3rd person character controller from scratch.
+Make a 3rd person character controller from scratch.
+Created by: Ariana Rice 24816522
 
 ## List of implemented features
 
