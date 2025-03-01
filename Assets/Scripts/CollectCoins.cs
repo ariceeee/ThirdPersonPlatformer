@@ -18,7 +18,6 @@ public class CollectCoins : MonoBehaviour
         {
             numCoins++;
             coinText.text = "Coins: " + numCoins;
-            Debug.Log("Player collected a coin! Total coins: " + numCoins);
             Destroy(other.gameObject);
         }
     }
